@@ -1,0 +1,6 @@
+order_id;order_date;product_id;product_name;category;quantity;unit_price;customer_id
+1001;03/01/2024;P01;Laptop A;Electronics;2;850;C01
+1002;03/01/2024;P03;Mouse X;Accessories;3;25;C02
+1003;05/01/2024;P02;Laptop B;Electronics;1;1100;C01
+1004;10/01/2024;P04;Keyboard K;Accessories;2;45;C03
+1005;01/02/2024;P01;Laptop A;Electronics;1;850;C04

@@ -1,0 +1,6 @@
+Order_Id;Order_Date;Product_Id;Product_Name;Category;Quantity;Unit_Price;Customer_Id;Customer_Name;City;Registration_Date;Cost_Per_Unit;Revenue;Total Cost;Profit;Margin Profit
+1001;03/01/2024;P01;Laptop A;Electronics;2;850;C01;Ahmed Ali;Cairo;01/10/2023;650;1700;1300;400;24
+1002;03/01/2024;P03;Mouse X;Accessories;3;25;C02;Mona Hassan;Giza;12/11/2023;15;75;45;30;40
+1003;05/01/2024;P02;Laptop B;Electronics;1;1100;C01;Ahmed Ali;Cairo;01/10/2023;900;1100;900;200;18
+1004;10/01/2024;P04;Keyboard K;Accessories;2;45;C03;Karim Samy;Cairo;20/12/2023;30;90;60;30;33
+1005;01/02/2024;P01;Laptop A;Electronics;1;850;C04;Sara Youssef;Alex;15/01/2024;650;850;650;200;24
